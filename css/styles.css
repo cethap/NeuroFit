@@ -1249,3 +1249,7 @@ Waypoints
 .flexslider{
     border: 0px solid #fff !important;
 }
+
+.flickity-viewport{
+    height: 90px !important;
+}
