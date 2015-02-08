@@ -1148,6 +1148,7 @@ Waypoints
 
 #BnnerPrcpal .flex-viewport{
     max-height: 600px;
+    height: 600px;
 }
 
 .flex-direction-nav a{
