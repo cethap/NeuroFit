@@ -773,12 +773,12 @@ blockquote .logo-quote {
 Showcase
 ========================================================================== */
 .showcase {
-    background: url('../ima/fondo-ubicacion.png') no-repeat center center fixed;
+    background: url('../ima/fondo-ubicacion.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 
 .cnvnios {
-    background: url('../ima/fondo-convenios.png') no-repeat center center fixed;
+    background: url('../ima/fondo-convenios.jpg') no-repeat center center fixed;
     padding: 120px 0;
     background-size: cover;
 }
