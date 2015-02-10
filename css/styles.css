@@ -1254,3 +1254,40 @@ Waypoints
 .flickity-viewport{
     height: 90px !important;
 }
+
+.footUltimo{
+    background-color: #CA003A;
+    color: #fff;
+    font-weight: lighter;
+    padding: 10px;
+}
+
+.footUltimo .redesSociales{
+    float: right;
+}
+
+.footUltimo .redesSociales a{
+    margin-left: 20px;
+}
+
+footer p, footer span{
+    color: #fff;
+    font-weight: lighter;
+}
+
+.foot2 img, .foot2 .itemAdjunto{
+    float: left;
+    display: block;
+}
+
+.foot2 img{
+    margin-right: 10px;
+}
+
+.foot2 .fechaAdjunto{
+    color: #910125;
+}
+
+.Contacto{
+    min-height: 300px;
+}
